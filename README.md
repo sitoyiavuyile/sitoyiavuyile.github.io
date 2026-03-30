@@ -15,30 +15,6 @@ I'm a third-year ICT Application Development student with hands-on experience bu
 
 ---
 
-## 🚀 Projects
-
-🟢 **Student Enrollment System** — Java, Maven, SQL, Apache Derby 
- *(2025)*
-- Developed a Student Enrolment System using Java and Maven, enabling real-time student registration and course management through a client-server architecture.
-- Implemented a Java Swing GUI to provide an intuitive and user-friendly platform for student and admin interactions.
-- Designed and integrated a relational database using SQL and Apache Derby to manage student records, course data, and enrolment transactions efficiently.
-- Applied client-server communication principles to handle real-time data exchange, ensuring accurate processing and synchronization of enrolment information.
-
-🟢 **Personal Website** — HTML/CSS, JavaScript, VS Code 
-*(Aug 2024)*
-- Designed and developed a personal portfolio website to showcase technical skills, academic projects, and professional growth.
-- Applied front-end development skills using HTML, CSS, and JavaScript to build a responsive and user-friendly interface.
-- Implemented interactive features and dynamic content using JavaScript to enhance user experience.
-- Gained practical experience in web design principles, responsive layouts, debugging, and version control.
-
-🟢 **Gumtree Mobile App Redesign** — Figma 
-*(April 2024 – July2024)*
-- Redesigned the Gumtree mobile app applying UI/UX principles.
-- Improved usability, navigation flow, and visual consistency.
-- Created interactive prototypes and wireframes.
-- Focused on user-centered design and information architecture.
-
----
 
 ## 🎓 Education
 🎓 **John Bisseker Secondary School**
