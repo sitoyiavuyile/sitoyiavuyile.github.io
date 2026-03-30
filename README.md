@@ -1,4 +1,14 @@
 # Avuyile Sitoyi — Software Developer 👨‍💻
+---
+
+## 📞 Contact
+
+📱 **Phone:** (+27) 69-230-0335
+📧 **Email:** 240971051@mycput.ac.za
+📍 **Address:** 10 Dorset St, Woodstock
+🔗 **GitHub:** (https://github.com/sitoyiavuyile)
+
+---
 
 ## 👤 Profile
 I'm a third-year ICT Application Development student with hands-on experience building Java and web-based applications through collaborative team projects. Proficient in object-oriented programming, backend development, and version control with Git. Over the past two years I've grown into a deeply creative developer someone who doesn't just write code, but thinks carefully about how to make it meaningful. I'm currently seeking a software development internship where I can bring both my technical skills and creative thinking into a real-world environment.
@@ -40,14 +50,7 @@ Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 
 ---
 
-## 📞 Contact
 
-📱 **Phone:** (+27) 69-230-0335
-📧 **Email:** 240971051@mycput.ac.za
-📍 **Address:** 10 Dorset St, Woodstock
-🔗 **GitHub:** (https://github.com/sitoyiavuyile)
-
----
 
 ## 📌 References
 
