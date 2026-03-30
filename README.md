@@ -1,29 +1,33 @@
 # Avuyile Sitoyi — Software Developer 👨‍💻
+
 ---
 
 ## 📞 Contact
 📱 **Phone:** (+27) 69-230-0335
 📧 **Email:** 240971051@mycput.ac.za
 📍 **Address:** 10 Dorset St, Woodstock
-🔗 **GitHub:** (https://github.com/sitoyiavuyile)
-▶️ **Mock Interview:** (https://youtube.com/shorts/X41YHqXGyyI?feature=share)
+
+---
+
+## 🔗 Links
+🔗 **GitHub:** [github.com/sitoyiavuyile](https://github.com/sitoyiavuyile)
+▶️ **Mock Interview:** [Watch here](https://youtube.com/shorts/X41YHqXGyyI?feature=share)
+
 ---
 
 ## 👤 Profile
-I'm a third-year ICT Application Development student with hands-on experience building Java and web-based applications through collaborative team projects. Proficient in object-oriented programming, backend development, and version control with Git. Over the past two years I've grown into a deeply creative developer someone who doesn't just write code, but thinks carefully about how to make it meaningful. I'm currently seeking a software development internship where I can bring both my technical skills and creative thinking into a real-world environment.
+I'm a third-year ICT Application Development student with hands-on experience building Java and web-based applications through collaborative team projects. Proficient in object-oriented programming, backend development, and version control with Git. Over the past two years I've grown into a deeply creative developer — someone who doesn't just write code, but thinks carefully about how to make it meaningful. I'm currently seeking a software development internship where I can bring both my technical skills and creative thinking into a real-world environment.
 
 ---
 
 ## 💼 Work Experience
-
-🟢 **Student Tutor — Cape Peninsula University of Technology** 
+🟢 **Student Tutor — Cape Peninsula University of Technology**
 *(2024 – 2025)*
 - Provided peer support in Java programming, assisting with algorithm design, problem-solving techniques, and debugging object-oriented applications.
 - Guided classmates in understanding and implementing data structures and algorithms, improving their ability to write efficient and optimized code.
 - Assisted peers with database concepts, including SQL queries, relational database design, normalization, and basic CRUD operations.
 
 ---
-
 
 ## 🎓 Education
 🎓 **John Bisseker Secondary School**
@@ -38,18 +42,16 @@ Diploma in ICT Application Development
 
 ## 🛠️ Skills
 
-**Languages:** 
+**Languages:**
 Java, Python, SQL, JavaScript, HTML/CSS, PHP
 
 **Frameworks:**
 React, JUnit, Laravel, Spring Boot
 
-**Developer Tools:** 
+**Developer Tools:**
 Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 
 ---
-
-
 
 ## 📌 References
 
@@ -62,4 +64,3 @@ Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 📞 Phone: 076-391-9060
 📧 Email: sitoyiz@cput.ac.za
 🏢 Fundani / CPUT
-
