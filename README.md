@@ -31,14 +31,14 @@ I'm a third-year ICT Application Development student with hands-on experience bu
 - Applied client-server communication principles to handle real-time data exchange, ensuring accurate processing and synchronization of enrolment information.
 
 
-🟢 **Gumtree Mobile App Redesign** — Figma *(Mar 2025 – Nov 2025)*
+🟢 **Gumtree Mobile App Redesign** — Figma *(2025)*
 
 - Redesigned the Gumtree mobile app applying UI/UX principles.
 - Improved usability, navigation flow, and visual consistency.
 - Created interactive prototypes and wireframes.
 - Focused on user-centered design and information architecture.
 
-- 🟢 **Personal Website** — HTML/CSS, JavaScript, VS Code *(2024)*
+  🟢 **Personal Website** — HTML/CSS, JavaScript, VS Code *(2024)*
 
 - Designed and developed a personal portfolio website to showcase technical skills, academic projects, and professional growth.
 - Applied front-end development skills using HTML, CSS, and JavaScript to build a responsive and user-friendly interface.
@@ -61,11 +61,14 @@ Diploma in ICT Application Development
 
 ## 🛠️ Skills
 
-**Languages:** Java, Python, SQL, JavaScript, HTML/CSS, PHP
+**Languages:**
+Java, Python, SQL, JavaScript, HTML/CSS, PHP
 
-**Frameworks:** React, JUnit, Laravel, Spring Boot
+**Frameworks:** 
+React, JUnit, Laravel, Spring Boot
 
-**Developer Tools:** Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
+**Developer Tools:** 
+Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 
 ---
 
