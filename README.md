@@ -1,7 +1,7 @@
 # Avuyile Sitoyi — Software Developer 👨‍💻
 
-📱 (+27) 069-230-0335 &nbsp;|&nbsp; 📧 240971051@mycput.ac.za &nbsp;|&nbsp; 📍 Woodstock, Cape Town
-🔗 [GitHub](https://github.com/sitoyiavuyile) &nbsp;|&nbsp;
+📱 (+27) 069-230-0335 | 📧 240971051@mycput.ac.za  📍 Woodstock, Cape Town
+🔗 [GitHub](https://github.com/sitoyiavuyile)
 
 ---
 
@@ -75,7 +75,7 @@ Diploma in ICT Application Development
 📧 **Email:** 240971051@mycput.ac.za
 📍 **Address:** 10 Dorset St, Woodstock
 🔗 **GitHub:** [github.com/sitoyiavuyile](https://github.com/sitoyiavuyile)
-▶️ **YouTube:** [Mock Interview](https://youtube.com/shorts/X41YHqXGyyI?feature=share)
+
 
 ---
 
