@@ -91,6 +91,8 @@ Diploma in ICT Application Development
 📧 Email: sitoyiz@cput.ac.za
 🏢 Fundani / CPUT
 
-▶️ [Mock Interview](https://youtube.com/shorts/X41YHqXGyyI?feature=share)
+▶️ [Mock Interview]
+<video width="500" controls src="Mock interview.MOV">
+</video>
 
 ---
