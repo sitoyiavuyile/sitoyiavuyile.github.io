@@ -76,12 +76,15 @@ Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 ## 📝 Reflection: Working with Markdown
 I was tasked with building my GitHub profile README using Markdown as 
 part of my development journey. Since I already had a solid coding background, 
-picking up Markdown came fairly naturally — it felt similar to writing HTML,
+picking up Markdown came fairly naturally it felt similar to writing HTML,
 just replacing tags like `<h1>` with hashes and other lightweight syntax. 
 The language itself did not take long to learn, however what really challenged 
-me was the sheer volume of writing involved — as someone more comfortable writing 
+me was the sheer volume of writing involved as someone more comfortable writing 
 code than extended text, crafting my bio, project descriptions, and experience 
 sections required more effort than I expected. That said, I pushed through and 
 completed my README successfully, walking away with a new skill and a greater 
 appreciation for the fact that as a developer, clear communication and documentation matter 
 just as much as the code you write.
+
+## Reflection: Mock Interview Video Experience
+I had to record a mock interview video for the first time, and going in I felt like myself  confident and ready. Confidence has never really been my problem, so I thought this would be straightforward. But when I sat down and watched the playback, it was a completely different story. I could see myself panicking, hesitating, and doubting things I actually knew the answers to, which was strange because in the moment I thought I was holding it together. Watching yourself on camera in a serious setting has a way of showing you sides of yourself that everyday life does not, and what it showed me was that when the pressure is real and the stakes feel high, I tend to get overwhelmed in ways I was not fully aware of before. It was uncomfortable to watch, but it was exactly what I needed because now I know that my next goal is not just to build my technical skills, but to work on staying calm, trusting myself, and not letting panic override everything I have prepared for.
