@@ -50,7 +50,7 @@ Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 
 📱 **Phone:** (+27) 69-230-0335
 📧 **Email:** 240971051@mycput.ac.za
-📍 **Address:** Amber Grove,Chippenham Crescent
+📍 **Address:** Amber Grove,Chippenham Crescent Parklands
 🔗 **GitHub:** [github.com/sitoyiavuyile](https://github.com/sitoyiavuyile)
 
 
