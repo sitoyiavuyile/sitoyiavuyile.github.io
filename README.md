@@ -21,32 +21,6 @@ I'm a third-year ICT Application Development student with hands-on experience bu
 
 ---
 
-## 🚀 Projects
-
-🟢 **Student Enrollment System** — Java, Maven, SQL, Apache Derby *(2025)*
-
-- Developed a Student Enrolment System using Java and Maven, enabling real-time student registration and course management through a client-server architecture.
-- Implemented a Java Swing GUI to provide an intuitive and user-friendly platform for student and admin interactions.
-- Designed and integrated a relational database using SQL and Apache Derby to manage student records, course data, and enrolment transactions efficiently.
-- Applied client-server communication principles to handle real-time data exchange, ensuring accurate processing and synchronization of enrolment information.
-
-
-🟢 **Gumtree Mobile App Redesign** — Figma *(2025)*
-
-- Redesigned the Gumtree mobile app applying UI/UX principles.
-- Improved usability, navigation flow, and visual consistency.
-- Created interactive prototypes and wireframes.
-- Focused on user-centered design and information architecture.
-
-  🟢 **Personal Website** — HTML/CSS, JavaScript, VS Code *(2024)*
-
-- Designed and developed a personal portfolio website to showcase technical skills, academic projects, and professional growth.
-- Applied front-end development skills using HTML, CSS, and JavaScript to build a responsive and user-friendly interface.
-- Implemented interactive features and dynamic content using JavaScript to enhance user experience.
-- Gained practical experience in web design principles, responsive layouts, debugging, and version control.
-
----
-
 ## 🎓 Education
 
 🎓 **John Bisseker Secondary School**
@@ -99,3 +73,15 @@ Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 </video>
 
 ---
+## 📝 Reflection: Working with Markdown
+I was tasked with building my GitHub profile README using Markdown as 
+part of my development journey. Since I already had a solid coding background, 
+picking up Markdown came fairly naturally — it felt similar to writing HTML,
+just replacing tags like `<h1>` with hashes and other lightweight syntax. 
+The language itself did not take long to learn, however what really challenged 
+me was the sheer volume of writing involved — as someone more comfortable writing 
+code than extended text, crafting my bio, project descriptions, and experience 
+sections required more effort than I expected. That said, I pushed through and 
+completed my README successfully, walking away with a new skill and a greater 
+appreciation for the fact that as a developer, clear communication and documentation matter 
+just as much as the code you write.
