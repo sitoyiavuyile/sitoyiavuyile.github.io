@@ -74,6 +74,7 @@ Git, VS Code, Visual Studio, IntelliJ, Eclipse, NetBeans, Figma
 
 ---
 ## 📝 Reflection: Working with Markdown
+
 I was tasked with building my GitHub profile README using Markdown as 
 part of my development journey. Since I already had a solid coding background, 
 picking up Markdown came fairly naturally it felt similar to writing HTML,
@@ -87,4 +88,22 @@ appreciation for the fact that as a developer, clear communication and documenta
 just as much as the code you write.
 
 ## 📝 Reflection: Mock Interview Video Experience
+
 I had to record a mock interview video for the first time, and going in I felt like myself  confident and ready. Confidence has never really been my problem, so I thought this would be straightforward. But when I sat down and watched the playback, it was a completely different story. I could see myself panicking, hesitating, and doubting things I actually knew the answers to, which was strange because in the moment I thought I was holding it together. Watching yourself on camera in a serious setting has a way of showing you sides of yourself that everyday life does not, and what it showed me was that when the pressure is real and the stakes feel high, I tend to get overwhelmed in ways I was not fully aware of before. It was uncomfortable to watch, but it was exactly what I needed because now I know that my next goal is not just to build my technical skills, but to work on staying calm, trusting myself, and not letting panic override everything I have prepared for.
+
+## 🌐 Reflection: GitHub Pages Experience
+
+I was introduced to GitHub Pages for the first time and used it to host my 
+personal portfolio — something that felt like a real step forward in putting 
+myself out there as a developer. Going in I had no idea what to expect, but 
+what caught me off guard was how straightforward the whole process was. 
+Everything came together without any major hiccups, which honestly gave me 
+more confidence than I anticipated, because there is something about deploying 
+something live on the internet that just hits different compared to code sitting 
+on your local machine. Seeing my portfolio actually live and accessible to 
+anyone who has the link made everything feel real in a way it never had before 
+— it was no longer just a project, it was mine, out there in the world. This 
+experience also reminded me why I got into development in the first place, that 
+feeling of building something and actually shipping it. GitHub Pages is now a 
+tool I am genuinely comfortable with and one I will definitely keep using as I 
+grow, add new projects, and continue developing my personal brand as a developer.
